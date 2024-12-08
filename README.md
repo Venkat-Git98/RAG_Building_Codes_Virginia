@@ -134,15 +134,5 @@ python-dotenv==1.0.0
 tqdm==4.66.1
 ```
 
----
-
-## License
-[Specify your license information here.]
-
----
-
-## Contributors
-[Your Name/Organization]
-```
 
 Copy and save this as `README.md` in your project directory. Replace placeholders like `[your-repository-url]`, `your_openai_key`, and `your_pinecone_key` with actual values. Add your license and contributor information as needed.
