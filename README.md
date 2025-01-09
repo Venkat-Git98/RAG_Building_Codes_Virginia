@@ -27,7 +27,7 @@ A Retrieval-Augmented Generation (RAG) system for efficient querying and underst
 
 ### 1. Clone the Repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Venkat-Git98/RAG_Building_Codes_Virginia.git
 cd virginia-building-code-assistant
 ```
 
