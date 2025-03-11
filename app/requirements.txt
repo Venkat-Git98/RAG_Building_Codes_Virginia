@@ -1,4 +1,4 @@
-aiohttp==3.11.9
+asttokens>=2.4.0,<3.0.0
 asttokens==2.4.4
 attrs==24.2.0
 blinker==1.9.0
