@@ -4,7 +4,16 @@
 A Retrieval-Augmented Generation (RAG) system for efficient querying and understanding of Virginia building codes using natural language processing.
 
 ---
+# **🏗 Virginia Building Code Assistant**  
 
+A **Retrieval-Augmented Generation (RAG)** system designed for efficient querying and understanding of **Virginia building codes** using **Natural Language Processing (NLP)** and **Semantic Search**.
+
+## **🌐 Live Deployment**  
+The **Virginia Building Code Assistant** is deployed on **Streamlit Community Cloud**, providing users with seamless access without any setup.  
+
+🔗 **[Access the Live App](https://virginia-building-codes.streamlit.app/)**  
+
+---
 ## Features
 - **Natural Language Query Processing**: Understand and search building codes with plain English queries.
 - **Dual Search Functionality**: Query Virginia Building Codes or custom document uploads.
